@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         inflater.inflate(R.menu.menu1,menu);
         return true;
     }
-kjk
+k/jhgjhgj
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()){
